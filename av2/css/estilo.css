@@ -1,0 +1,15 @@
+.aprovado {
+    font-weight: bold;
+    color: blue;
+}
+
+.reprovado {
+    font-weight: bold;
+    color: red;
+}
+
+.recuperacao {
+    font-style: italic;
+    color: orange;
+}
+
